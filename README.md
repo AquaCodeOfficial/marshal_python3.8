@@ -2,10 +2,10 @@ Up![BANNER](https://i.ibb.co/FBspX7H/20200806-194902.jpg)
 lock python3.8 script with marshal
 
 ### Installing:
-``bash
+bash
 git clone https://github.com/AquaCodeOfficial/marshal_python3.8/
 cd marshal_python3.8/
-python3 marshal.py```
+python3 marshal.py
 
 ### My channel youtube:
 
