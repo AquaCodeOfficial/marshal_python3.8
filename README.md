@@ -3,7 +3,7 @@ lock python3.8 script with marshal
 
 ### Installing:
 
-<p>git clone https://github.com/AquaCodeOfficial/marshal_python3.8/</p>
+<p>wget https://raw.githubusercontent.com/AquaCodeOfficial/marshal_python3.8/master/marshal.py</p>
 <p>cd marshal_python3.8/</p>
 python3 marshal.py
 
